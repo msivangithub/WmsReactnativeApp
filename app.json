@@ -1,0 +1,9 @@
+{
+  "name": "lrManage",
+  "displayName": "lrManage",
+  "extra": {
+    "eas": {
+      "projectId": "8b990d66-46a0-4ce7-8f25-8f92efdd8af2"
+    }
+  }
+}
